@@ -1,1 +1,4 @@
+* About
 some configurations of my linux
+* Git
+* bashrc
